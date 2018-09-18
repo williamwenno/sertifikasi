@@ -1,0 +1,5 @@
+Aplikasi Aritmatika @copyright 2018. Aplikasi fungsi Aritmatika penjumlahan, pengurangan, perkalian dan pembagian.
+
+- Base url dan konfigurasi lain terdapat pada direktori: /application/config/config.php
+- File tampilan terdapat pada direktori: /application/view/skkn1
+- File fungsi terdapat pada direktori: /application/controller/skkn1.php

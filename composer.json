@@ -1,0 +1,15 @@
+{
+    "name": "devonder/bahmid",
+    "description": "Aplikasi Inventori Sekolah",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "William Wenno",
+            "email": "williamwenno@gmail.com"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^0.8.2"
+    }
+}

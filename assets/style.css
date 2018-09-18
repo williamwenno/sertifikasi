@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+.mycontainer {
+	margin-left: 3%;
+	margin-right: 3%;
+
+
+}
+
+.mynav {
+	background-color: #19bc9d;
+	border-radius: 0px;
+
+}
+
+.mynav a {
+	color: white;
+}
+
+.mynav a:hover {
+	color:#f1c50e;
+	background-color: transparent;
+}
+
+ul li a:hover {
+	background-color: transparent !important;
+}
+
+ul li a:after {
+	background-color: transparent !important;
+}
+
+ul li a:focus {
+	background-color: transparent !important;
+}
+
+.navbar-form .input-group input {
+	width: 600px !important;
+}
+
+.navbar-form .input-group .input-group-btn .mybtn {
+	
+
+}
+
+.panel-heading {
+	padding: 0 !important;
+
+}
+
+.judul {
+      overflow: hidden;
+   text-overflow: ellipsis;
+   display: -webkit-box;
+      /* fallback */
+   -webkit-line-clamp: 2; /* number of lines to show */
+   -webkit-box-orient: vertical;
+    }

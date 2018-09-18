@@ -1,0 +1,33 @@
+#menubar,
+#header, #aside, #printer,
+#content .section-header,
+.offcanvas-holder {
+	display: none;
+}
+
+#content,
+#content .section-body {
+	padding: 0;
+}
+
+.card-printable {
+	display: block;
+}
+.card-printable .card-head {
+	display: none;
+}
+
+body,
+#content > section {
+	background-color: #ffffff;
+	border: 0;
+}
+#kepala, #ttd {
+	display: block !important;
+}
+
+@page {
+    size: auto;   /* auto is the initial value */
+    margin: 0;  /* this affects the margin in the printer settings */
+}
+
